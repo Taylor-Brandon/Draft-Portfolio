@@ -1,0 +1,147 @@
+:root {
+    --mainDark: rgb(188, 0, 0);
+    --mainLight: rgb(249, 230, 205);
+    --mainBorder: rgb(65, 63, 63);
+
+}
+
+body {
+    font-family: 'Kenia', sans-serif;
+    font-family: 'Lilita One', sans-serif;
+    font-family: 'Playfair Display', serif;
+    background-color: var(--mainLight);
+    color: var(--mainDark);
+}
+
+nav {
+    border-bottom: solid 2px var(--mainBorder);
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 70px;
+    margin-left: 20px;
+    margin-bottom: -30px;
+}
+
+.nav-list {
+    text-align: end;
+    margin-bottom: 10px;
+}
+
+li {
+    padding: 20px;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: var(--mainDark);
+
+}
+
+h2 {
+    font-size: 70px;
+    padding: 30px;
+    text-align: center;
+}
+
+.avatar-image {
+    width: 25%;
+    margin-left: 630px;
+
+}
+.Quote-Section{
+    text-align: center;
+    padding: 100px;
+    border: solid 2px var(--mainBorder);
+}
+
+.Quote-Text{
+    font-size: 30px;
+}
+.Project-List{
+text-align: center;
+    font-size: 20px;
+    padding: 50px;
+}
+.Project-card{
+    transition: all 1s ease-out;
+}
+.card-header{
+    font-size: 30px;
+}
+.HTML-img{
+    width: 13%;
+    padding: 20px;
+    border-radius: 30px;
+}
+.Horiseon-img{
+    width: 13%;
+    padding: 20px;
+    border-radius: 30px;
+}
+.Css-img{
+    width: 13%;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.Project-List:hover{
+    cursor: grab;
+    box-shadow: 0 0 40px var(--mainBorder);
+}
+
+.Project-List .HTML-img:hover{
+    width: 20%;
+    box-shadow: 0 0 40px var(--mainBorder);
+}
+
+.Project-List .Horiseon-img:hover{
+    width: 20%;
+    box-shadow: 0 0 40px var(--mainBorder);
+}
+
+.Project-List .Css-img:hover{
+    width: 20%;
+    box-shadow: 0 0 40px var(--mainBorder);
+}
+#About-Me{
+    border-top: solid 2px var(--mainBorder);
+}
+
+h3{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+    margin: 0 150px;
+    margin-bottom: 50px;
+}
+
+#Contact{
+    padding: 75px;
+    text-align: center;
+    border-top: solid 2px var(--mainBorder);
+    
+}
+h4{
+    font-size: 30px;
+    padding: 50px;
+    text-align: center;
+}
+footer{
+    padding: 100px;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+
+
