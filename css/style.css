@@ -49,74 +49,61 @@ h2 {
 .avatar-image {
     width: 25%;
     margin-left: 630px;
-
 }
-.Quote-Section{
+
+.Quote-Section {
+    display: flex;
+    flex-wrap: wrap;
     text-align: center;
     padding: 100px;
     border: solid 2px var(--mainBorder);
 }
 
-.Quote-Text{
+.Quote-Text {
     font-size: 30px;
 }
-.Project-List{
-text-align: center;
+
+.Project-List {
+    text-align: center;
     font-size: 20px;
     padding: 50px;
 }
-.Project-card{
+
+.Project-card {
     transition: all 1s ease-out;
 }
-.card-header{
+
+.card-header {
     font-size: 30px;
 }
-.HTML-img{
-    width: 13%;
-    padding: 20px;
-    border-radius: 30px;
-}
-.Horiseon-img{
-    width: 13%;
-    padding: 20px;
-    border-radius: 30px;
-}
-.Css-img{
+
+.HTML-img {
     width: 13%;
     padding: 20px;
     border-radius: 30px;
 }
 
-.Project-List:hover{
-    cursor: grab;
-    box-shadow: 0 0 40px var(--mainBorder);
+.Horiseon-img {
+    width: 13%;
+    padding: 20px;
+    border-radius: 30px;
 }
 
-.Project-List .HTML-img:hover{
-    width: 20%;
-    box-shadow: 0 0 40px var(--mainBorder);
+.Css-img {
+    width: 13%;
+    padding: 20px;
+    border-radius: 30px;
 }
 
-.Project-List .Horiseon-img:hover{
-    width: 20%;
-    box-shadow: 0 0 40px var(--mainBorder);
-}
 
-.Project-List .Css-img:hover{
-    width: 20%;
-    box-shadow: 0 0 40px var(--mainBorder);
-}
-#About-Me{
-    border-top: solid 2px var(--mainBorder);
-}
 
-h3{
+h3 {
     font-size: 30px;
     text-align: center;
     padding: 30px;
 }
 
-p{
+p {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
@@ -124,24 +111,85 @@ p{
     margin-bottom: 50px;
 }
 
-#Contact{
+#Contact {
     padding: 75px;
+    line-height: 30px;
+    white-space: pre-wrap;
+    overflow: auto;
+    tab-size: 4;
     text-align: center;
     border-top: solid 2px var(--mainBorder);
-    
+
 }
-h4{
+
+h4 {
     font-size: 30px;
     padding: 50px;
     text-align: center;
 }
-footer{
+
+footer {
     padding: 100px;
     font-size: 30px;
     text-align: center;
 }
 
+.Project-List:hover {
+    cursor: grab;
+    box-shadow: 0 0 40px var(--mainBorder);
+}
 
+.Project-List .HTML-img:hover {
+    width: 20%;
+    box-shadow: 0 0 40px var(--mainBorder);
+}
 
+.Project-List .Horiseon-img:hover {
+    width: 20%;
+    box-shadow: 0 0 40px var(--mainBorder);
+}
 
+.Project-List .Css-img:hover {
+    width: 20%;
+    box-shadow: 0 0 40px var(--mainBorder);
+}
 
+#About-Me {
+    border-top: solid 2px var(--mainBorder);
+}
+
+@media screen and (max-width: 992px) {
+    h1 {
+        font-size: 60px;
+        margin-left: 20px;
+        margin-bottom: -30px;
+    }
+
+    .avatar-image {
+        width: 50%;
+        margin-left: 200px;
+    }
+
+    #Contact {
+        line-height: 30px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 40px;
+        margin-left: 10px;
+        margin-bottom: -20px;
+    }
+
+    .avatar-image {
+        width: 75%;
+        margin-left: 50px;
+    }
+
+}
