@@ -76,10 +76,5 @@ The rerences used for this application can bee found here. . .
 ![Project Screenshot](./images/Css%3Ass3.png)
 ![Project Screenshot](./images/Css.ss4.png)
 
-
-
-
-
-
-
 # Demo
+![Live Demo](https://taylor-brandon.github.io/Draft-Portfolio/)
