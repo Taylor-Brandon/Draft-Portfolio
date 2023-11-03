@@ -15,8 +15,6 @@ This website is a first draft version of my project portfolio. This will include
 
 6. When the website is resized or viewed on various screens and devices, then they are presented with a responsive layout that adapts to their viewport.
 
-# Table of Contents
-
 ## Table of Contents
 
 1. [Project Title](#project-title)
@@ -50,7 +48,7 @@ In order to use this application, access the live demo link found below. Then, u
 Those who would like to explore this project and contribute themselves are able to do so locally on their machine by cloning the repository. Additioanlly, they are able to make sugestions by making Github issues that will allow for bugs, inspiration, and further suggestions to be identified. 
 
 # License
-This project includes an MIT License. The documentation for this can be found here [LICENSE](./LICENSE)
+This project includes an MIT License. The documentation for this can be found here [MIT License](./LICENSE)
 
 # Aknowledgements
 A special thanks to Columbia University Bootcamps for providing the educational material as well as the inspiration and criteria for this project!
