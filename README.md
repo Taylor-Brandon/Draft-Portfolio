@@ -50,13 +50,13 @@ In order to use this application, access the live demo link found below. Then, u
 Those who would like to explore this project and contribute themselves are able to do so locally on their machine by cloning the repository. Additioanlly, they are able to make sugestions by making Github issues that will allow for bugs, inspiration, and further suggestions to be identified. 
 
 # License
-This project includes an MIT License. The documentation for this can be found [here](https://github.com/Taylor-Brandon)
+This project includes an MIT License. The documentation for this can be found here [LICENSE](./LICENSE)
 
 # Aknowledgements
 A special thanks to Columbia University Bootcamps for providing the educational material as well as the inspiration and criteria for this project!
 
 # Support
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at taylor.brandon22545@gmail.com or create an issue on the GitHub repository.
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at ![taylor.brandon22545@gmail.com](https://taylor.brandon22545@gmail.com) or create an issue on the GitHub repository.
 
 # Version History
 * Version 1.0.0 (Initial Release)
