@@ -1,19 +1,19 @@
 ## Taylor Brandon's Draft Portfolio Website
 
 # Description
-This application is a first draft version of my project portfolio. This will include. . .
+This website is a first draft version of my project portfolio. This will include. . .
 
 1. My name, avatar, links to sections about me, my work, and how to contact me.
 
 2. Links found on the navigation bar will scroll to the corresponding section. 
 
-3. When clicking on the designated section about my work, the UI will scroll to the each application that includes an image and a title.
+3. When clicking on the designated section about my work, the UI will scroll to the each website that includes an image and a title.
 
-4. When presented with the first project, the application will be larger in size than the others. 
+4. When presented with the first project, the website will be larger in size than the others. 
 
-5. When users click on the image, then they are redirected to that deployed application.
+5. When users click on the image, then they are redirected to that deployed project.
 
-6. When the application is resized or viewed on various screens and devices, then they are presented with a responsive layout that adapts to their viewport.
+6. When the website is resized or viewed on various screens and devices, then they are presented with a responsive layout that adapts to their viewport.
 
 # Table of Contents
 
