@@ -34,26 +34,41 @@ This application is a first draft version of my project portfolio. This will inc
 15. Demo
 
 # Installation
+In order to explore this project in greater depth locally on your machine, please follow these steps:
+
+1. Clone the repository to your local machine.
+2. Open the project folder in your preferred code editor.
+3. Double-click the 'index.html' file to view it in your web browser.
 
 
 # Usage
+In order to use this application, access the live demo link found below. Then, users are able to explore links for details about myself, my work, and how to contact me using the navigation bar. Once a link is clicked, the application will then scroll to the corresponding section. Users are able to read inforation about myself and how to contact me. Additionally, after navigating to my projects, images that are accessed are able to relocate to that appropriate website. 
 
 # Contributing
+Those who would like to explore this project and contribute themselves are able to do so locally on their machine by cloning the repository. Additioanlly, they are able to make sugestions by making Github issues that will allow for bugs, inspiration, and further suggestions to be identified. 
 
 # License
+This project includes an MIT License. The documentation for this can be found [here](https://github.com/Taylor-Brandon)
 
 # Aknowledgements
-
-# FAQ
+A special thanks to Columbia University Bootcamps for providing the educational material as well as the inspiration and criteria for this project!
 
 # Support
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at taylor.brandon22545@gmail.com or create an issue on the GitHub repository.
 
 # Version History
-
-# Author
+* Version 1.0.0 (Initial Release)
+    * Basic HTML and CSS structure    
+    * README file created
+    * Live demo link added
 
 # References
+The rerences used for this application can bee found here. . .
+
+1. [google fonts](https://fonts.google.com/).
+
 
 # Screenshot
+
 
 # Demo
