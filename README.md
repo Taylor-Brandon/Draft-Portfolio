@@ -17,21 +17,23 @@ This website is a first draft version of my project portfolio. This will include
 
 # Table of Contents
 
-1. Project Title
-2. Description
-3. Table of Contents
-4. Installation
-5. Usage
-6. Contributing
-7. License
-8. Aknowledgements
-9. FAQs
-10. Support
-11. Version History
-12. Author
-13. References
-14. Screenshot
-15. Demo
+## Table of Contents
+
+1. [Project Title](#project-title)
+2. [Description](#description)
+3. [Table of Contents](#table-of-contents)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Acknowledgements](#acknowledgements)
+9. [FAQs](#faqs)
+10. [Support](#support)
+11. [Version History](#version-history)
+12. [Authors](#authors)
+13. [References](#references)
+14. [Screenshots](#screenshots)
+15. [Demo](#demo)
 
 # Installation
 In order to explore this project in greater depth locally on your machine, please follow these steps:
